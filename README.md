@@ -4,4 +4,4 @@ SnapBeat is an Android-based music recognition application developed using Java 
 
 The complete SnapBeat Music Recognition App project, including source code, documentation, and APK file, is available at the following Google Drive link :
 
-https://drive.google.com/drive/u/0/folders/1DwCe3K557qTeeFJtbySPmIoaSum1ZKTQ
+https://drive.google.com/drive/u/0/folders/1DwCe3K557qTeeFJtbySPmIoaSum1ZKTQ](https://drive.google.com/drive/folders/1gyD1cIt6Vt-RoDqmUfzJ6i7WH8KklzGn?usp=sharing)
